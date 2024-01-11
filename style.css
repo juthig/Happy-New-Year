@@ -6,7 +6,7 @@
     display: flex;
     align-items: center;
     flex-direction: column;
-    background-image: url('./imgs/Banner\ Image.png');
+    background-image: url("./imgs/BannerImage.png");
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
